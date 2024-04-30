@@ -1,3 +1,3 @@
 # NodeJS_BackendTest
 
-API para testes em node
+Backend utilizando nodeJS e express

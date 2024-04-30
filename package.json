@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_backendtest",
+  "version": "1.0.0",
+  "description": "Backend utilizando nodeJS e express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prod": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sir-Chronos/NodeJS_BackendTest.git"
+  },
+  "keywords": [],
+  "author": "Gabriel Teodoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sir-Chronos/NodeJS_BackendTest/issues"
+  },
+  "homepage": "https://github.com/Sir-Chronos/NodeJS_BackendTest#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
