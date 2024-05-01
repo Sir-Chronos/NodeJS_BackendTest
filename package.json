@@ -20,8 +20,10 @@
   },
   "homepage": "https://github.com/Sir-Chronos/NodeJS_BackendTest#readme",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
-    "mongodb": "^6.5.0"
+    "mongodb": "^6.5.0",
+    "mongoose": "^8.3.3"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
